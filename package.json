@@ -1,0 +1,19 @@
+{
+  "name": "pairsy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sqlem/Pairsy.git"
+  },
+  "author": "Sylex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sqlem/Pairsy/issues"
+  },
+  "homepage": "https://github.com/Sqlem/Pairsy#readme"
+}
